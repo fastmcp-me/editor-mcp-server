@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1748/phaser-editor-mcp-server)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1748/phaser-editor-mcp-server)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1748/phaser-editor-mcp-server)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1748/phaser-editor-mcp-server)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1748/phaser-editor-mcp-server)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1748/phaser-editor-mcp-server)
+
 # MCP Server for Phaser Editor v5
 
 This [Model Context Protocol (MCP) server](http://modelcontextprotocol.io) provides the tools to connect an LLM with Phaser Editor v5. It is designed to work seamlessly with Phaser Editor's IDE features, allowing developers to create and manage game scenes efficiently.
